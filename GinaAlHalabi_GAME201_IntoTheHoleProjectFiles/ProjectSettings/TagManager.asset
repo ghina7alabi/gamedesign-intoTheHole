@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ClosedDoor
+  - OpenedDoor
+  - SeenDoor
+  - InvisibleSwitch
+  - VisibleSwitch
+  - VisibleSpawnPoint
+  - InvisibleSpawnPoint
+  - Spikes
+  - VisibleObstacleChangingLocations
+  - InvisibleObstacleChangingLocations
+  - SocialAnxiety
+  - pithole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - '-'
+  - NormalObstacles
+  - MovingObstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
